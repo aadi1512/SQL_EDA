@@ -1,0 +1,3 @@
+**SQL_Exploratory_Data_Analytics_Project**
+---
+An extensive suite of SQL routines for exploring, analyzing, and reporting data. The scripts address a wide range of analytical needs, including schema discovery, metric calculation, temporal trends, running aggregates, cohort segmentation, and other advanced analyses. Designed to assist data analysts and BI specialists, these queries enable rapid data inspection, segmentation, and insight generation within a relational environment. Each file targets a distinct analytical scenario and exemplifies recommended practices for writing clear, efficient, and maintainable SQL.
